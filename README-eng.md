@@ -12,9 +12,15 @@
 
 ## The Concept
 
-Python 3 has almost 35 keywords. If we replace those with words in any other language then we could create a pseudo progamming language. This repository is an attempt to do that.
+Python 3 has almost 35 keywords. If we replace those with words in any other language then we could create a pseudo progamming language. This project is an attempt to do that.
 
 <br>
+
+## How to run
+
+1. Clone the project
+2. Run the script `shesh.py` with python3 and check the output
+3. Try changing the script in `code.txt` and try running `shesh.py` again to verify changes.
 
 ## How it works
 We replace the associated keywords in non-english language to original python keywords and recreate a runnable python script. Then we run that script to get the output.
